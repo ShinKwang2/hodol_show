@@ -1,0 +1,18 @@
+= 신로그 API
+:toc:
+
+== 글 등록
+
+=== 요청
+
+include::{snippets}/post-create/http-request.adoc[]
+
+include::{snippets}/post-create/request-fields.adoc[]
+
+=== 응답
+
+include::{snippets}/post-create/http-response.adoc[]
+
+=== CURL
+
+include::{snippets}/post-create/curl-request.adoc[]
